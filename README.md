@@ -2,7 +2,7 @@
 
 <br>
 <p align="center">
-  I focus on creating applications that are not only functional but also visually user-friendly. My specialization includes <b>UI/UX Design</b> and <b>Apple Swift</b>, along with a solid foundation in Python, HTML, and CSS. As a quick learner and adaptive thinker, I thrive in environments where innovation is a driving force.
+  I focus on creating applications that are not only functional but also visually user-friendly. My specialization includes <b>UI/UX Design</b> and <b>Apple Swift</b>, along with a solid foundation in Python, HTML, CSS and Java. As a quick learner and adaptive thinker, I thrive in environments where innovation is a driving force.
 </p>
 
 <p align="center">
