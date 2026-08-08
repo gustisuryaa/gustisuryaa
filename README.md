@@ -16,14 +16,14 @@
 
 ---
 
-<h3 align="left">🛠️ Core Tech Stacks</h3>
+<h3 align="left">Core Tech Stacks</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=swift,python,flask,html,css,figma,git,github,vscode&perline=10&theme=dark" alt="Tech Stack Icons" />
   </a>
 </p>
 
-<h3 align="left">📈 Statistics</h3>
+<h3 align="left">Statistics</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gustisuryaa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustisuryaa&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
