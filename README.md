@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
----
+
 <h3 align="left">Core Tech Stacks</h3>
 <p align="left">
   <a href="https://skillicons.dev">
